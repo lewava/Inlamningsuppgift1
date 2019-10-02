@@ -1,0 +1,4 @@
+interface Ieat {
+
+    void eat();
+}
